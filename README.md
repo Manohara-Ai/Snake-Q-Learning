@@ -39,3 +39,6 @@ Learn more about the ideas and experiments behind these models in the blog serie
 - Install required dependencies from `requirements.txt`:
   ```bash
   pip install -r requirements.txt
+
+###Acknowledgments
+Special thanks to [Patrik Lober](https://github.com/patrickloeber) for his valuable contributions and insights that greatly enhanced the project.
