@@ -25,6 +25,13 @@ This repository is a deep dive into the evolution of the Snake Game using Reinfo
 
 ---
 
+## Blog Series
+
+Learn more about the ideas and experiments behind these models in the blog series:
+[Building a Deep Q-Network Agent for Snake A Reinforcement Learning Journey](https://manohara-omega.vercel.app/dqn-snake-blog-part1.html)
+
+---
+
 ## Setup Instructions
 
 ### Prerequisites
