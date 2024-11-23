@@ -18,13 +18,13 @@ class Linear_QNet(nn.Module):
         # Apply the first linear transformation followed by ReLU activation
         x = F.relu(self.linear1(x))
         # Apply the second linear transformation to produce the output
-        x = self.linear2(x)     
+        x = self.linear2(x)
         return x
 
 
     def save(self, file_name='model.pth'):
         # Create a directory to save the model if it doesn't exist
-        model_folder_path = './model'
+        model_folder_path = './Model'
         if not os.path.exists(model_folder_path):
             os.makedirs(model_folder_path)
 
